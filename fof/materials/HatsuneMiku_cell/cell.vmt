@@ -1,8 +1,0 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "HatsuneMiku_cell\cell"
-	"$surfaceprop" "flesh"
-	"$model" 1
-//	"$nocull" 1
-
-}

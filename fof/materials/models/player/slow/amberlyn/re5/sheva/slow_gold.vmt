@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/slow/amberlyn/re5/sheva/slow_skin"
+
+
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models/player/slow/amberlyn/re5/sheva/slow_skin"
+	"$envmaptint" "[1 1 1]"
+	"$envmapcontrast" .4
+	"$envmapsaturation" .85
+}

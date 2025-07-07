@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/slow/amberlyn/re5/sheva/slow_holster"
+
+	"$phong" 			"1"
+	"$phongexponent" 		"5"
+	"$phongboost"		"1.6"
+	"$phongfresnelranges"	"[.05 .1 .2]"
+}
