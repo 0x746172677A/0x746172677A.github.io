@@ -1,2 +1,4 @@
 "resources"
-{"maps/fof_convoy_particles.txt" "file"}
+{
+	"maps/fof_convoy_particles.txt" "file"
+}
