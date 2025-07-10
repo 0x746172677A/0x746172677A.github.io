@@ -1,2 +1,2 @@
 # 0x746172677A.github.io
-Random stuff, mostly fof related
+Random stuff, mostly fistful of frags related
