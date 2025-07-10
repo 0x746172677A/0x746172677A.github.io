@@ -1,1 +1,3 @@
 package.vmf
+*.log
+*.prt
