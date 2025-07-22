@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/demojaime/AkitaNeruYYB/headphone"
+                "$lightwarptexture" "models/demojaime/AkitaNeruYYB/lightwarpneru"
+                "$bumpmap" "models\player\shared\shared_normal" 
+                "$phongexponenttexture" "models/demojaime/AkitaNeruYYB/exponentneru"
+                $basemapalphaphongmask 1 
+                $COLOR2 0.9 0.9 0.9 
+                $phongalbedotint 1
+                $phongexponent 0.001
+                $phong 1
+                $phongboost 1.576
+                $phongfresnelranges .625 .625 1
+                $phongexponent 5
+
+}

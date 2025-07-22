@@ -1,0 +1,31 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/synthv/kasaneteto/texture/hair"
+	$detail models/survivors/survivor_it
+	$bumpmap "models/synthv/kasaneteto/normal/hair_n"
+	$lightwarptexture "models/synthv/kasaneteto/lightwarps/hair"
+	$nodecal 1
+
+
+    $detailscale 3
+    $detailblendfactor 0.0
+    $detailblendmode 0
+	
+	$ITAmount 0.0
+    $ONE 1.0
+
+    Proxies {
+        IT {
+            resultVar $ITAmount
+        }
+        Equals {
+            srcVar1 $ITAmount
+            resultVar $detailblendfactor
+        }
+        Subtract {
+            srcVar1 $ONE
+            srcVar2 $ITAmount
+            resultVar $phongboost
+        }
+    }
+}
