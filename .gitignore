@@ -1,3 +1,4 @@
 package.vmf
 *.log
 *.prt
+localonly/
