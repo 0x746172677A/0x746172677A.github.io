@@ -1,0 +1,8 @@
+* ESCORT *
+-------------
+
+VIGILANTES: escort Ramirez up to the enemy base. Just walk along him to make Ramirez move.
+
+DESPERADOS: Ramirez should not reach the goal before time runs out. He cannot be killed, so kill their companions!
+
+

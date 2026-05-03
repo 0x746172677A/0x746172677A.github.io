@@ -1,0 +1,7 @@
+* COOP *
+------------
+
+VIGILANTES: Collect loot sacks and bring them to the wagon at church's front.
+
+DESPERADOS: Spawn NPCs to prevent enemy team captures all loot.
+

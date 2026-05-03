@@ -1,0 +1,11 @@
+* PUSH *
+------------
+
+VIGILANTES: capture all the enemy control points before time runs out.
+
+DESPERADOS: defend your territory preventing the enemy captures any control point.
+
+Respawns limit: each new stage grants additional respawns for every player.
+
+TIP: the fortress only can be conquered if vigilantes destroy the door/walls with dynamite!
+

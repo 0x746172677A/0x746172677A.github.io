@@ -1,0 +1,7 @@
+* COOP *
+------------
+
+VIGILANTES: Collect loot sacks and bring them to the marked wagon.
+
+DESPERADOS: Spawn NPCs to prevent enemy team captures all loot.
+

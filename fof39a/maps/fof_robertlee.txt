@@ -1,0 +1,7 @@
+* LAST MAN STANDING - SURVIVAL *
+-------------------------------------------------------
+
+ALIVE PLAYERS: Collect guns and ammunition around the level to fight the AI controlled enemies. Last alive player wins the round.
+
+DEAD PLAYERS: Spawn bots to kill the remaining alive players.
+

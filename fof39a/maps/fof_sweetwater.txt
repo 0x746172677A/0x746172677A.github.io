@@ -1,0 +1,8 @@
+* LOOT CAPTURE *
+-------------------------------
+
+DESPERADOS: pick the loot sack and retrieve it to capture zone (wagon).
+
+VIGILANTES: avoid at all cost enemy team captures the loot.
+
+

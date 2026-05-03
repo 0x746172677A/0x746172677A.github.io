@@ -1,0 +1,9 @@
+* PUSH THE CART *
+-------------------------------
+
+OBJECTIVE: push the cart until enemy base is reached.
+
+IMPORTANT: dynamite and fiery arrows inflict less damage than usual.
+
+
+
