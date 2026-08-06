@@ -1,0 +1,19 @@
+"UnlitGeneric"
+{
+    "$basetexture" "stupid/foxytex1"
+    $alphatest "1"
+    $translucent "0"
+    $ignorez "1"
+    $vertexcolor "0"
+    $vertexalpha "0"
+
+    "Proxies"
+    {
+        "AnimatedTexture"
+        {
+            "animatedTextureVar" "$basetexture"
+            "animatedTextureFrameNumVar" "$frame"
+            "animatedTextureFrameRate" "15"
+        }
+    }
+}
