@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-    "$basetexture" "stupid/foxytex2"
+    "$basetexture" "stupid/funnytex0"
     $alphatest "1"
     $translucent "0"
     $ignorez "1"
