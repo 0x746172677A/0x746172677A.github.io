@@ -1,4 +1,4 @@
 # 0x746172677A.github.io
 
-Random stuff, mostly Fistful of Frags maps!
+Random stuff, mostly Fistful of Frags content!
 
